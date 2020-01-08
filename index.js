@@ -1,7 +1,7 @@
 const fs = require('fs');
 const http = require('http');
 const puppeteer = require('puppeteer');
-const ProfileGen = require('./ProfileGen');
+const ProfileGen = require('./generateHTML');
 const User = require('./User');
 
 
