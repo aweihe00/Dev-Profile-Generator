@@ -13,7 +13,7 @@ module.exports = function User() {
                 .prompt([
                     {
                         type: "input",
-                        message: "Enter your GitHub handle: ",
+                        message: "Enter your GitHub username: ",
                         name: "login"
                     },
                     {
