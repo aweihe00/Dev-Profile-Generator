@@ -1,0 +1,35 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "description": "Node.js application that dynamically generates a PDF profile from a GitHub username.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index,js localhost 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aweihe00/dev-profile-generator.git"
+  },
+  "keywords": [
+    "developer",
+    "profile",
+    "generator"
+  ],
+  "author": "Andrew Weihe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aweihe00/dev-profile-generator/issues"
+  },
+  "homepage": "https://github.com/aweihe00/dev-profile-generator#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "electron": "^7.1.7",
+    "electron-html-to": "^2.6.0",
+    "inquirer": "^7.0.3",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
