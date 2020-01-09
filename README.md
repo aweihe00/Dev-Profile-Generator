@@ -31,6 +31,8 @@ THEN a PDF profile is generated
 
 https://drive.google.com/file/d/1faqlo5EyQY3M-hn77Fgf_KECub7A_18d/view
 
+## Instructions
+
 Create a command-line application that dynamically generates a PDF profile from a GitHub username. The application will be invoked with the following command:
 node index.js
 The user will be prompted for a favorite color, which will be used as the background color for cards.
