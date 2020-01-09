@@ -1,9 +1,9 @@
 # Dev-Profile-Generator
 
-Business Context
+## Business Context
 When preparing a report for stakeholders, it is important to have up-to-date information about members of the development team. Rather than navigating to each team member's GitHub profile, a command-line application will allow for quick and easy generation of profiles in PDF format.
 
-Minimum Requirements:
+## Minimum Requirements:
 
 Functional, deployed application.
 
@@ -27,8 +27,7 @@ THEN a PDF profile is generated
 
 ![Capture](https://user-images.githubusercontent.com/56567819/72025907-49296700-323f-11ea-9e0b-5f94bd11999c.PNG)
 
-
-Demo
+## Demo
 
 https://drive.google.com/file/d/1faqlo5EyQY3M-hn77Fgf_KECub7A_18d/view
 
@@ -51,7 +50,7 @@ Number of followers
 Number of GitHub stars
 Number of users following
 
-Following the common templates for user stories, we can frame this challenge as follows:
+## Following the common templates for user stories, we can frame this challenge as follows:
 
 AS A product manager
 I WANT a developer profile generator
